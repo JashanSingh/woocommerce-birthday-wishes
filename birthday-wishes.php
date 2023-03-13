@@ -6,3 +6,8 @@ Version: 1.0
 Author: Jashan Preet Singh
 Author URI: https://jashansingh.com
 */
+
+/**
+ * Load the plugin classes.
+ */
+require_once __DIR__ . '/classes/BirthdayWishes_User.php';
